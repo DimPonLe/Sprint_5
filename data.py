@@ -1,0 +1,2 @@
+TEST_EMAIL = "1234567890@ya.ru"
+TEST_PASSWORD = "qwerty"

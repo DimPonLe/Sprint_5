@@ -1,0 +1,4 @@
+{
+  "test_registration_page.py::test_register_successfully": true,
+  "test_login_page.py::test_login_valid_existing_email_password_construction_section": true
+}
